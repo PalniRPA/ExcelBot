@@ -1,0 +1,40 @@
+{
+  "name": "ExcelBot",
+  "description": "Compare excel files",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Activities.Extensions": "2.0.6.9",
+    "UiPath.Excel.Activities": "[2.6.0]",
+    "UiPath.Form.Activities": "1.0.0",
+    "UiPath.Mail.Activities": "[1.5.0]",
+    "UiPath.System.Activities": "[19.5.0]",
+    "UiPath.UIAutomation.Activities": "[19.5.0]",
+    "UiPath.WebAPI.Activities": "1.4.4",
+    "UiPathTeam.DatatableSetOrdinal.Activities": "1.0.2"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.11.0.2",
+  "projectVersion": "1.0.5",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfos": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
