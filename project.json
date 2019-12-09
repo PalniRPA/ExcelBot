@@ -12,7 +12,8 @@
     "UiPath.System.Activities": "[19.5.0]",
     "UiPath.UIAutomation.Activities": "[19.5.0]",
     "UiPath.WebAPI.Activities": "1.4.4",
-    "UiPathTeam.DatatableSetOrdinal.Activities": "1.0.2"
+    "UiPathTeam.DatatableSetOrdinal.Activities": "1.0.2",
+    "UiPathTeam.GoogleSpreadsheet.Activities": "[1.0.2.1]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
