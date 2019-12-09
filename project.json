@@ -3,9 +3,6 @@
   "description": "Compare excel files",
   "main": "Main.xaml",
   "dependencies": {
-    "AlpacaUiPathFormBuilderLib": "[1.0.0.78]",
-    "FormFactory": "[5.0.67]",
-    "FormFactory.Standalone": "[5.0.67]",
     "Microsoft.Activities.Extensions": "2.0.6.9",
     "UiPath.Excel.Activities": "[2.6.0]",
     "UiPath.Form.Activities": "1.0.0",
